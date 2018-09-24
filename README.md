@@ -9,7 +9,6 @@ In CVPR 2017 (**Oral**).
 
 See the [project webpage](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/) 
 
-<img src='misc/cityscapes_sample_results.gif' width=320>
 
 ## Prerequisites
 This codebase was developed and tested with Tensorflow 1.0, CUDA 8.0 and Ubuntu 16.04 and is compatable with windows OS.
