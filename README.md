@@ -62,4 +62,4 @@ python test_kitti_pose.py --test_seq 9 --dataset_dir /path/to/MPIsintel/odometry
 [Pytorch](https://github.com/ClementPinard/SfmLearner-Pytorch) (by Clement Pinard)
 
 ## Disclaimer
-This is the modification of authors' implementation of the system described in the paper and not an official Google product.
+This is an unofficial implementation of the system described in the paper and not an official Google product.
